@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+langchain-google-genai  # Adjust to the correct version you are using
+langchain-core  # Replace with correct version if different
+gTTS
